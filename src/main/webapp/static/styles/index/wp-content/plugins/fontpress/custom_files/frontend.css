@@ -1,0 +1,54 @@
+
+div.fp_sc_div {
+	display: inline !important;
+	margin: 0 !important;
+	padding: 0 !important; 	
+}
+
+h2.entry-title a {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 21px !important;
+		line-height: 20px !important;
+		color: #111111 !important;}
+.wpb_accordion.dt-style .wpb_accordion_wrapper .wpb_accordion_header a, .wpb_toggle.dt-style, #content h4.wpb_toggle.dt-style {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 21px !important;
+		line-height: 20px !important;
+		color: #efefef !important;}
+h3.black-20 {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 21px !important;
+		line-height: 20px !important;
+		color: #484b4d !important;}
+.wpb_wrapper h3 {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 36px !important;
+		line-height: 20px !important;
+		color: #fefefe !important;}
+.standard-number-list h3 {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 21px !important;
+		line-height: 20px !important;
+		color: #efefef !important;}
+h3.black-36 {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 36px !important;
+		line-height: 20px !important;
+		color: #484b4d !important;}
+h3.ef-20 {
+	font-family: "Thai Sans Lite Regular" !important;
+		font-size: 21px !important;
+		line-height: 20px !important;
+		color: #efefef !important;}
+@font-face {
+	font-family: 'Thai Sans Lite Regular';
+	src: url('fearless-webfont.eot');
+	src: url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.woff') format('woff'),
+		 url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.ttf') format('truetype'),
+		 url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.svg#thaisanslite_r1-webfont') format('svg');
+}
+	
+font.fp_ff_Thai_Sans_Lite_Regular, font.fp_ff_Thai_Sans_Lite_Regular * {
+	font-family: "Thai Sans Lite Regular";
+}

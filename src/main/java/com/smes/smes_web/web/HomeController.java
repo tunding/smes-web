@@ -11,7 +11,7 @@ import org.springframework.web.bind.annotation.RequestMethod;
  * @date 创建时间：2015年8月22日 下午6:57:40
  */
 @Controller
-@RequestMapping(value="/")
+@RequestMapping(value="/index")
 public class HomeController {
 	@RequestMapping(method = RequestMethod.GET)
 	public String home(){

@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<decorators defaultdir="/WEB-INF/layouts/">
-	<excludes>
-		<pattern>/static/*</pattern>
-		<pattern>/api/*</pattern>
-	</excludes>
+<decorators defaultdir="/WEB-INF/views">
 	
-	<decorator name="default" page="default.jsp">
-		<pattern>/*</pattern>
-	</decorator>
+	<!-- 默认装饰页面, 在需要装饰的页面增加<meta name="decorator" content="default"/> -->
+	<decorator name="default" page="layouts/default.jsp" />	
 </decorators>
