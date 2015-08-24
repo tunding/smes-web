@@ -39,11 +39,11 @@
 			.pager a {
 				margin: 0 5px;
 				text-decoration: none;
-				background: url("../dt-presscore/images/skin/page-none.png") no-repeat scroll center bottom; color:#d7d8d9;
+				background: url("/smes-web/static/images/page-none.png") no-repeat scroll center bottom; color:#d7d8d9;
 				text-indent:999px;
 			}
 			.pager a.selected {
-				background: url("../dt-presscore/images/skin/page-active.png") no-repeat scroll center bottom; color:#d7d8d9;
+				background: url("/smes-web/static/images/page-active.png") no-repeat scroll center bottom; color:#d7d8d9;
 				text-indent:999px;
 			}
 			.timer {

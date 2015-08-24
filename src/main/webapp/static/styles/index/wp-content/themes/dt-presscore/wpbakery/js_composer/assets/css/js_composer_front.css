@@ -235,7 +235,7 @@
 }
 .wpb_toggle_title_active,
 #content h4.wpb_toggle_title_active {
-  background: url(../images/toggle_close.png) no-repeat left center;
+  background: url(/smes-web/static/images/toggle_close.png) no-repeat left center;
 }
 .wpb_toggle:hover {
   cursor: pointer;
@@ -880,7 +880,7 @@ option.wpb_video {
   top: 0.7em;
 }
 .wpb_accordion .wpb_accordion_wrapper .ui-state-active .ui-icon {
-  background-image: url(../images/toggle_close.png);
+  background-image: url(/smes-web/static/images/toggle_close.png);
 }
 /* tabs_tour_accordion responsive rules */
 @media (max-width: 480px) {
