@@ -1,0 +1,55 @@
+			.list_carousel {
+				width: 100%;
+				margin:0; padding:0;
+			}
+			.list_carousel ul {
+				margin: 0;
+				padding: 0;
+				list-style: none;
+				display: block;
+			}
+			.list_carousel li {
+				color: #999;
+				text-align: center;
+				background-color:rgba(255, 255, 255, 0);
+				width: 450px;
+				padding: 0;
+				margin:0;
+				display: block;
+				float: left;
+			}
+			.list_carousel.responsive {
+				width: auto;
+				margin-left: 0;
+			}
+			.prev {
+				float: left;
+				margin-left: 10px;
+				display:none !important;
+			}
+			.next {
+				float: right;
+				margin-right: 10px;
+				display:none !important;
+			}
+			.pager {
+				float: left;
+				text-align: center;
+			}
+			.pager a {
+				margin: 0 5px;
+				text-decoration: none;
+				background: url("../dt-presscore/images/skin/page-none.png") no-repeat scroll center bottom; color:#d7d8d9;
+				text-indent:999px;
+			}
+			.pager a.selected {
+				background: url("../dt-presscore/images/skin/page-active.png") no-repeat scroll center bottom; color:#d7d8d9;
+				text-indent:999px;
+			}
+			.timer {
+				background-color: #999;
+				height: 6px;
+				width: 0px;
+			}
+			.pager a span { color:rgba(255, 255, 255, 0);
+			}

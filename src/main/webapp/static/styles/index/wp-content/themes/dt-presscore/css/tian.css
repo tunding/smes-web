@@ -1,0 +1,148 @@
+.sme_login									{width:310px; padding:30px 90px 28px 90px; margin:0 auto; background:url(/smes-web/static/images/register_bg.png) no-repeat; background-color:#6fb9cb; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; overflow:hidden;}
+.sme_login input, .sme_login select			{width:100%; height:34px; margin:0px;}
+.sme_login #wp-submit						{width:127px; height:38px; background-color:#0078C1; box-shadow:0 2px 0 #00609B; position:relative;left: 183px; font-family: "Thai Sans Lite Regular"; font-size: 20px; padding-left:35px;}
+.sme_login .label_register					{color:#fff !important;}
+
+.sme_login input[type="text"]::-moz-placeholder, input[type="password"]::-moz-placeholder, textarea::-moz-placeholder {
+    color: #a8a7a9;
+}
+
+.sme_login p							{margin-bottom:7px;}
+.sme_login .register_check				{background:url(/smes-web/static/images/register_check.png) no-repeat; display:block; width:18px; height:13px; position:relative; left:195px; top:26px; z-index:1;}
+
+.sme_login select						{color: #a8a7a9 !important;}
+
+
+/* Apply Job Form*/
+
+#wpcf7-f13694-p114-o1					{width:745px; background-color:#f7f8f8; border:5px solid #efefef; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+
+#wpcf7-f13694-p13902-o1, #wpcf7-f13728-p13738-o1		{width:745px; background-color:#f7f8f8; border:5px solid #efefef; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+#wpcf7-f13694-p14229-o1, #wpcf7-f13728-p13738-o1		{width:745px; background-color:#f7f8f8; border:5px solid #efefef; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+#wpcf7-f13728-p14235-o1, #wpcf7-f13728-p13738-o1		{width:745px; background-color:#f7f8f8; border:5px solid #efefef; border-radius:3px; -moz-border-radius:3px; -webkit-border-radius:3px; }
+
+.train_form								{background:url(/smes-web/static/images/form_head.png) no-repeat; height:46px; color:#fff; font-family: "Thai Sans Lite Regular";font-size:28px; font-weight:normal; line-height:46px; text-align:center;}
+
+.form_wrapper							{padding-left:15px; margin-top:20px; width:555px; position:relative; padding-left:165px; padding-bottom:40px;}
+.form_photo								{position:absolute; top:0px; left:15px;}
+.preview_photo							{width:130px; height:148px; background:url(/smes-web/static/images/defualt_photo_form.png) no-repeat; position:absolute; top:0px; left:0px; font-size:1px;}
+.uploadz_photo							{position:absolute; top:78px; left:0px; text-indent:-9999px; background:url(/smes-web/static/images/upload_button.png) no-repeat; height:38px; width:130px; cursor:pointer;}
+.ismed_name								{background: url("/smes-web/static/images/logo_form.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    border-bottom: 3px solid #EAEBEB;
+    height: 70px;
+    margin-bottom: 2px;
+    padding-bottom: 15px;
+    padding-left: 152px;}
+.ismed_name	p							{margin-bottom:0px; font-family: "Thai Sans Lite Regular"; }
+.ismed_name	p:first-child				{padding-top:20px; font-size: 25px;}
+.ismed_name	p:last-child				{font-size: 19px;}
+
+.course_name_date						{border-top:1px solid #EAEBEB; padding:17px 0px 0px 0px;}
+.line									{border-top:1px dashed #c9caca; margin: 20px 0px;}
+.line_last								{border-top:2px solid #EAEBEB; margin: 20px 0px;}
+
+.cnd_name								{font-family: thai sans lite regular; font-size: 21px;}
+.cnd_date								{padding-left:10px; font-family: thai sans lite regular; font-size: 21px;}
+
+.form_title_detail						{margin-bottom:10px; font-family:"Thai Sans Lite Regular"; font-size:23px; color:#0078c1;}
+
+
+.course_name							{width: 190px !important;}
+.tranning_date							{width: 125px !important;}
+.my_gap10								{margin-top:10px;}
+
+.input_w200								{width:200px !important;}
+.input_w118								{width:108px !important;}
+
+.sendform_button						{text-indent:-9999px; background:url(/smes-web/static/images/sendform_button.png) no-repeat; height:38px; width:113px !important; position:absolute; right:0px;}
+
+.form_wrapper .title_box				{display:inline-block; width:70px;}
+.form_wrapper .title_box2				{display:inline-block; width:180px;}
+.form_wrapper .title_box3				{display:inline-block; width:110px;}
+.fullname								{width:306px !important;}
+.website_2, .other_way					{width:150px !important;}
+input.company_name						{width:374px !important;}
+/*.postid-13732 .dt-form input,.postid-13732 .dt-form .form-name input,.postid-13732 .dt-form .form-mail input,.postid-13732 .comment-form-author input,.postid-13732 .comment-form-email input,.postid-13732 .comment-form-url input,.postid-13732 .wpcf7-form input	{ max-width:500px !important; }*/
+
+#wpcf7-f13694-p13902-o1 .wpcf7-form input			{max-width:500px !important; }
+#wpcf7-f13694-p14229-o1 .wpcf7-form input			{max-width:500px !important; }
+.position								{width:200px !important;}
+.contact_person_2						{width:370px !important;}
+.product_detail							{width:254px !important;}
+
+#course-name							{width:440px !important;}
+#course-day								{width:280px !important;}
+.fix_top20								{margin-top:20px;}
+
+.btn_form_download						{text-decoration:none; color:#fff; font-family:"Thai Sans Lite Regular"; font-size:20px; background-color:#0078c1; padding:6px; border-radius:3px; box-shadow:0px 2px 0px #00609b;}
+.btn_form_download:hover				{color:#fff;}
+.boxz_download							{position:relative; top:9px;}
+
+
+/* Apply Job Form*/
+.postid-13738 .wpcf7-form input			{max-width:500px !important; }
+.apply_for								{width:173px !important;}
+.expected_salary						{width:140px !important;}
+.postid-13738 .fullname					{width:256px !important;}
+.postid-13738 .input_w115				{width:115px !important;}
+.postid-13738 .input_1_2				{width:201px !important;}
+.postid-13738 .input_1_3				{width:108px !important;}
+
+.postid-13738 .textarea_addr			{width:400px !important; height:75px !important;}
+.postid-13738 .form_wrapper .title_box4				{display:inline-block; width:150px;}
+.postid-13738 .id_card					{width:370px !important;}
+.postid-13738 .input_box2				{width:370px !important;}
+.postid-13738 .input_box3				{width:161px !important;}
+
+.postid-13738 .title_labelz				{font-family:"Thai Sans Lite Regular"; font-size:18px; color:#0078c1; }
+.postid-13738 .other_language			{width:255px !important;}
+.postid-13738 .fix_leftz				{padding-left:185px;}
+.postid-13738 .textarea_addr2			{height: 75px !important; width: 370px !important;}
+.postid-13738 .input_liz				{width:142px !important;}
+
+#user_login								{padding-right:30px; background:url(/smes-web/static/images/register_uname.png) no-repeat 285px 9px #fff;}
+#user_email								{padding-right:30px; background:url(/smes-web/static/images/register_email.png) no-repeat 285px 11px #fff;}
+
+.postid-13738 .hr-thick					{display:none;}
+
+/* Apply Job Form-en */
+.postid-14235 .wpcf7-form input			{max-width:500px !important; }
+.apply_for								{width:173px !important;}
+.expected_salary						{width:140px !important;}
+.postid-14235 .fullname					{width:257px !important;}
+.postid-14235 .input_w115				{width:115px !important;}
+.postid-14235 .input_1_2				{width:201px !important;}
+.postid-14235 .input_1_3				{width:108px !important;}
+
+.postid-14235 .textarea_addr			{width:400px !important; height:75px !important;}
+.postid-14235 .form_wrapper .title_box4				{display:inline-block; width:150px;}
+.postid-14235 .id_card					{width:370px !important;}
+.postid-14235 .input_box2				{width:371px !important;}
+.postid-14235 .input_box3				{width:161px !important;}
+
+.postid-14235 .title_labelz				{font-family:"Thai Sans Lite Regular"; font-size:18px; color:#0078c1; }
+.postid-14235 .other_language			{width:255px !important;}
+.postid-14235 .fix_leftz				{padding-left:185px;}
+.postid-14235 .textarea_addr2			{height: 75px !important; width: 371px !important;}
+.postid-14235 .input_liz				{width:143px !important;}
+.postid-14235 .hr-thick					{display:none;}
+
+
+
+#ui-datepicker-div						{background:#A5B1B8; padding:5px; -webkit-border-radius:3px; -moz-border-radius:3px; border-radius:3px;}
+#ui-datepicker-div thead th				{padding:5px;}
+
+#ui-datepicker-div tbody td,
+#ui-datepicker-div .ui-datepicker-title			{text-align:center;}
+
+#ui-datepicker-div .ui-datepicker-prev			{float:left; padding-left:5px; background-image:url(/smes-web/static/images/datepicker_prev.png); background-repeat: no-repeat; width:12px; height:12px; text-indent:-99999px; position:relative; top:4px; left:5px;}
+#ui-datepicker-div .ui-datepicker-next			{float:right; padding-right:5px; background-image:url(/smes-web/static/images/datepicker_next.png); background-repeat: no-repeat; width:12px; height:12px; text-indent:-99999px; position:relative; top:4px;}
+
+#ui-datepicker-div .ui-datepicker-header		{background:#003A63; color:#fff;}
+#ui-datepicker-div .ui-datepicker-header a		{color:#fff; cursor:pointer;}
+#ui-datepicker-div a							{text-decoration:none;}
+#ui-datepicker-div .ui-datepicker-today	a		{font-weight:bold; color:#fff;}
+#ui-datepicker-div .ui-datepicker-month,
+#ui-datepicker-div .ui-datepicker-year			{font-weight:bold;}
+
+

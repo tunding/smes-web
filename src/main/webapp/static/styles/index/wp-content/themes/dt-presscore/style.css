@@ -1,0 +1,1114 @@
+/*
+Theme Name: PressCore
+Theme URI: http://dream-theme.com/
+Author: Dream-Theme
+Author URI: http://dream-theme.com/
+Description: PressCore is perfectly scalable and performance-optimized. It will fit every site – big or small. From huge corporate portals to studio or personal sites – PressCore will become a great foundation for your next project!
+Version: 2.0.1 (Venus)
+License: This WordPress theme is comprised of two parts: (1) The PHP code and integrated HTML are licensed under the GPL license as is WordPress itself.  You will find a copy of the license text in the same directory as this text file. Or you can read it here: http://wordpress.org/about/gpl/ (2) All other parts of the theme including, but not limited to the CSS code, images, and design are licensed according to the license purchased. Read about licensing details here: http://themeforest.net/licenses/regular_extended
+License URI: License.txt
+Tags: one-column, two-columns, right-sidebar, flexible-width, custom-menu, editor-style, featured-images, post-formats, rtl-language-support, sticky-post, translation-ready
+*/
+
+.blog .dt-format-gallery .dt-format-gallery-coll.full,
+.archive .dt-format-gallery .dt-format-gallery-coll.full,
+.search .dt-format-gallery .dt-format-gallery-coll.full
+{
+	display: none;
+}
+
+.wp-caption-text,
+.sticky,
+.gallery-caption,
+.bypostauthor {}
+#top-bar {background: url("/smes-web/static/images/header-ismed.png") repeat-x scroll center bottom; color:#d7d8d9;}
+.mini-search input[type="text"]::-moz-placeholder { color:#fff;}
+.mini-search input[type="text"] { color:#fff !important;}
+
+.stripe-style-3 {background: url("/smes-web/static/images/panel2.png") repeat-x scroll center bottom; color:#2d3f62;}
+
+#content .entry-author { display:none; }
+.stripe-style-3 *, .stripe-style-3 a
+{ color:#cecece; }
+
+/*MAIN MENUR*/
+
+#content h1 { color: #111111;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+#content h2 { color: #111111;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 26px;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+#content h3 { color: #111111;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 24px;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+#content h4 { color: #111111;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 22px;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+#content h5 { color: #111111;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h1.entry-title {
+    color: #111111 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 27px !important;
+    font-weight: normal;
+    line-height: 20px !important;
+}
+
+a.bbp-author-name {
+    color: #111111 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 20px !important;
+}
+
+h2.entry-title {
+    color: #111111 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 27px !important;
+    font-weight: normal;
+    line-height: 20px !important;
+}
+
+
+#main-nav > li > a, #main-nav > li > a > span {
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 20.4px !important;
+    font-weight: normal;
+    line-height: 25px !important; }
+
+.black-20 {
+    color: #000 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important;
+}
+
+h3.realblack-20 {
+    color: #000 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important;
+}
+
+h3.blue-20
+ {  color: #029ae1 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h3.dark-blue-20
+ {  color: #029ae1 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.blue-20
+ {  color: #a0078c1 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.blue-20 a
+ {  color: #029ae1 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.nea-black20
+ {  color: #484b4d !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h3.ef-20
+ {  color: #EFEFEF !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.ff-18
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.ff-20
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h3.ff-32
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 33px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h2.ff-52
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 36px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.ff-20
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 20px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.blue-18
+ {  color: #003a63 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.blue-32
+ {  color: #003a63 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 33px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.ff-18
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+.ff-20
+ {  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 20px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+
+h3.bla-32
+ {  color: #010000 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 32px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.bla-24
+ {  color: #747374 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 24px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h3.bla-18
+ {  color: #747374 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 18px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h3.fe-28
+ {  color: #fefefe !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 28px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h3.fb-36
+ {  color: #6fb9cb !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 36px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+
+h3.accordion-20
+ {  color: #343434 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+h2,h3,h4
+ { font-weight: normal !important; }
+ 
+
+ 
+.home .bk-tab-1 .wpb_wrapper ul.wpb_tabs_nav a { border-bottom:1px #e6e6e6 solid !important; }
+
+.wpb_content_element.tab-style-one .wpb_tour_tabs_wrapper .wpb_tabs_nav .ui-tabs-active a, .wpb_content_element.tab-style-two .wpb_tabs_nav li.ui-tabs-active a, .wpb_content_element.tab-style-two .wpb_tabs_nav li.ui-tabs-active a:hover, .wpb_content_element.tab-style-three .wpb_tabs_nav li.ui-tabs-active a, .wpb_content_element.tab-style-one .wpb_tour_tabs_wrapper .wpb_tabs_nav .ui-tabs-active a:hover, .wpb_content_element.tab-style-three .wpb_tour_tabs_wrapper .wpb_tabs_nav .ui-tabs-active a:hover 
+{  color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important; }
+	
+.shortcode-tabs.tab-style-one .tab, .shortcode-tabs.tab-style-three .tab, .wpb_content_element.tab-style-one .wpb_tour_tabs_wrapper .wpb_tabs_nav a, .wpb_content_element.tab-style-two .wpb_tour_tabs_wrapper .wpb_tabs_nav a, .wpb_content_element.tab-style-three .wpb_tour_tabs_wrapper .wpb_tabs_nav a
+{  color: #111111 !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 20px !important;}
+
+		
+#rev_slider_1_1_wrapper {border-bottom:5px solid #003A63}
+/*.wpb_row {background: url("/smes-web/static/images/knowledge-bg.png") repeat-x scroll center bottom; color:#d7d8d9;}*/
+
+.tree-btn 					{ float: left; margin-left: 10px; margin-top: -64px; z-index:999; position:relative;}
+.tree-btn-v2				{ float: left; margin-left: 10px; margin-top: -105px; z-index:999; position:relative;}
+.tree-btn-v2-txt			{ float:left; margin-left: 100px; margin-top: 40px;}
+.regis-btn-v2-txt			{ float:left; margin-left: 65px; margin-top: 40px;}
+.man-btn-v2-txt				{ float: left; margin-left: 70px; margin-top: 129px; }
+.man-btn-v2-txt h3.ff-18	{ line-height: 15px !important;}
+.book-btn 					{ background: url("/smes-web/static/images/btn-ismed-1.png") no-repeat scroll center bottom; margin-left: -50px; width: 364px; height:161px; float:left;}
+.book-btn-v2				{ background: url("/smes-web/static/images/a-bg-01.png") no-repeat scroll center bottom; margin-left: -40px; width: 364px; height:157px; float:left;}
+.regis-btn 					{ background: url("/smes-web/static/images/btn-ismed-2.png") no-repeat scroll center bottom; width:334px; height:161px; float:left;}
+.regis-btn-v2				{ background: url("/smes-web/static/images/a-bg-02.png") no-repeat scroll center bottom; width:335px; height:157px; float:left;}
+.plan-btn 					{ background: url("/smes-web/static/images/btn-ismed-3.png") no-repeat scroll center bottom; width:333px; height:161px; float:left;}
+.man-btn-v2					{ background: url("/smes-web/static/images/a-bg-03.png") no-repeat scroll center bottom; width:333px; height:244px; float:left; margin-top: -87px;}
+.position-sonline			{ float: left; margin-left: -55px; margin-top: 10px; }
+.position-sprogram			{ float: left; margin-left: 8px; margin-top: 10px; }
+.position-sregis			{ float:left; margin-left: 49px; margin-top: 8px;}
+.btn-sonline				{ background: url("/smes-web/static/images/a-bg-01-btn1.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+							cursor: pointer;
+							height: 34px;
+							padding:3px 14px 12px 36px;
+							width: 117px; 
+							text-decoration: none; }
+.btn-sonline:hover		{ background: url("/smes-web/static/images/a-bg-01-btn1-hover.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:117px; height:34px; cursor:pointer; text-decoration: none; }
+.btn-sonline:active		{ background: url("/smes-web/static/images/a-bg-01-btn1-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:117px; height:34px; cursor:pointer; text-decoration: none; }
+.btn-sregis				{ background: url("/smes-web/static/images/a-bg-01-btn3.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+							cursor: pointer;
+							height: 34px;
+							padding:3px 14px 12px 40px;
+							width: 117px; 
+							text-decoration: none; }
+.btn-sregis:hover		{ background: url("/smes-web/static/images/a-bg-01-btn3-hover.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:117px; height:34px; cursor:pointer; text-decoration: none; }
+.btn-sregis:active		{ background: url("/smes-web/static/images/a-bg-01-btn3-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:117px; height:34px; cursor:pointer; text-decoration: none; }
+.tree-btn-v2-txt h3.ff-32		{ margin-left:35px; }
+.regis-btn-v2-txt h3.blue-32	{ margin-left:35px; }
+.btn-sprogram					{ background: url("/smes-web/static/images/a-bg-01-btn2.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+								cursor: pointer;
+								height: 34px;
+								padding:3px 14px 12px 36px;
+								width: 117px; 
+								text-decoration: none; }
+.btn-sprogram:hover		{ background: url("/smes-web/static/images/a-bg-01-btn2-hover.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:117px; height:34px; cursor:pointer; text-decoration: none; }
+.btn-sprogram:active	{ background: url("/smes-web/static/images/a-bg-01-btn2-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:117px; height:34px; cursor:pointer; text-decoration: none; }
+				
+				
+				
+.pic-btn-calendar 			{ background: url("/smes-web/static/images/btn-calendar.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+				cursor: pointer;
+				height: 34px;
+				padding:3px 14px 6px 36px;
+				width: 84px; 
+				text-decoration: none; }
+.pic-btn-calendar:hover		{ background: url("/smes-web/static/images/btn-calendar-hv.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:84px; height:34px; cursor:pointer; text-decoration: none; }
+.pic-btn-calendar:active	{ background: url("/smes-web/static/images/btn-calendar-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:84px; height:34px; cursor:pointer; text-decoration: none; }
+
+
+.pic-btn-calendar-en 			{ background: url("/smes-web/static/images/btn-calendar.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+				cursor: pointer;
+				height: 34px;
+				padding:3px 14px 6px 36px;
+				width: 84px; 
+				text-decoration: none; }
+.pic-btn-calendar-en:hover		{ background: url("/smes-web/static/images/btn-calendar-hv.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:84px; height:34px; cursor:pointer; text-decoration: none; }
+.pic-btn-calendar-en:active	{ background: url("/smes-web/static/images/btn-calendar-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:84px; height:34px; cursor:pointer; text-decoration: none; }
+
+
+.pic-btn-train				{ background: url("/smes-web/static/images/btn-train.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); cursor: pointer; height: 34px; padding:3px 10px 6px 35px; width: 106px; text-decoration:none; }
+.pic-btn-train:hover		{ background: url("/smes-web/static/images/btn-train-hv.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:106px; height:34px; cursor:pointer; text-decoration: none;}
+.pic-btn-train:active		{ background: url("/smes-web/static/images/btn-train-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:106px; height:34px; cursor:pointer; text-decoration: none;}
+.pic-btn-activity			{ background: url("/smes-web/static/images/btn-activity.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); cursor: pointer; height: 34px; padding:3px 12px 7px 35px; width: 95px; text-decoration: none; }
+.pic-btn-activity:hover		{ background: url("/smes-web/static/images/btn/btn-activity-hv.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:95px; height:34px; cursor:pointer; text-decoration: none; }
+.pic-btn-activity:active	{ background: url("/smes-web/static/images/btn-activity-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); width:95px; height:34px; cursor:pointer; text-decoration: none; }
+
+.pic-partner 				{ border: 1px solid #E8E8E8; float: left; height: 64px; margin-right: 10px; width: 65px; }
+.btn-calendar				{ float:left; margin-left: 235px; margin-top: 40px; }
+.btn-train					{ float:left; margin-left: 235px; margin-top: 18px; }
+.btn-activity				{ float:left; margin-left: 235px; margin-top: 18px; }
+.work-us					{ float:left;  margin-left: 175px; margin-top: 41px; }
+.ex-btn						{ float:left;  margin-left: 170px; margin-top: 41px; }
+.town-bg					{ background: url("/smes-web/static/images/town-bg.png") no-repeat scroll center bottom; float: left;
+							height: 264px;
+							margin-left: -235px;
+							margin-top: -157px;
+							position: absolute;
+							width: 1241px;
+							height:244px; }
+/*#phantom #main-nav li:first-child { margin-top:35px; }*/
+#phantom #main-nav > li { margin-top:35px; }
+
+.cover-town					{ float:left; padding-bottom: 23px; position:relative; }
+#bottom-bar .mini-search, #bottom-bar .mini-contacts li:before { background-color:none !important;}
+.all-pic-partner			{ float: left; left: 665px; position: absolute; top: 145px; }
+
+.landscape									{ float:left; width:auto;}
+.landscape .wf-cell							{ float:left; width:100%; clear:both;}
+.landscape .wf-cell	.alignnone				{ width:150px; float:left; margin-right:20px; line-height:16px;}
+.landscape .wf-cell	p						{ width:280px; float:left;}
+.landscape .wf-cell article p:first-child	{ width:auto;}
+.landscape .wf-cell	.entry-title			{ width:280px; float:left; clear:none;}
+.landscape .wf-cell	.entry-meta				{ width:280px; float:left; display:none;}
+h2.entry-title								{ line-height:20px !important;}
+
+.bg-logos 									{ height:50px; float:left;}
+.bg-footer-logo								{ background: none repeat scroll 0 0 #393F4D; bottom: 89px; float: left; left: 0; padding-top: 55px; position: absolute; top: 90.5%; width: 100%; }
+.ft-logo									{ height: 120px; margin-left: auto; margin-right: auto; margin-top: -22px; width: 1200px;}
+
+/*background หน้าแรก*/
+#page 										{ background: url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom; }
+.stripe-style-1 							{ background: url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom; color:#d7d8d9 !important;}
+.page-id-13270 .logos-grid					{ margin-left: 70px; }
+.page-id-13270 .wf-container-main .breadcrumb { display:none;}
+.page-id-13270 #main						{ padding:0px !important; background: url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom; color:#d7d8d9 !important;}
+/*background หน้าแรก eng*/
+.page-id-14038 .logos-grid					{ margin-left: 70px; }
+.page-id-14038 .wf-container-main .breadcrumb { display:none;}
+.page-id-14038 #main						{ padding:0px !important; background: url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom; color:#d7d8d9 !important;}
+.page-id-14038 a.pic-btn-calendar-en		{ font-size:16px !important;}
+
+
+
+
+.page-id-14021 .logos-grid					{ margin-left: 70px; }
+.page-id-14021 .wf-container-main .breadcrumb { display:none;}
+.page-id-14021 #main						{ padding:0px !important; background: url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom; color:#d7d8d9 !important;}
+
+
+.bk-tab-1 .wf-container .wf-1-3 p 			{ width:215px;}
+.bk-tab-1  									{ z-index: 999; position: relative; }
+.wf-1-3 									{ width:33.33% !important;}
+.wf-1-3 									{ width:29.33%\0/ !important;}
+.bk-tab-1 .wpb_tab 							{ width:76.8% !important;}
+.bk-tab-1 .wpb_tab 							{ width:71.8%\0/ !important;}
+.bk-tab-1 .ui-tabs-panel,
+.bk-tab-1 .wpb_ui-tabs-hide,
+.bk-tab-1 .ui-corner-bottom 				{ border-left:1px solid #E6E6E6 !important;}
+.town-bg									{ position:relative\0/ !important;}
+
+
+
+.entry-meta p 								{ height:90px; overflow:hidden;}
+.wf-wrap 									{ width:1020px; max-width:none; padding:0 40px !important;}
+.book-half 									{ float:left; width:25%; color:#868686;}
+.white-bar 									{ float:left; background-color:#fff; width:100%; display:none; }
+.real-time 									{ background:url("/smes-web/static/images/real-time.png") no-repeat scroll;
+												display: block;
+												font-family: Arial,Helvetica,sans-serif;
+												font-size: 11px;
+												height: 79px;
+												margin:-15px -15px 10px;
+												padding: 0 0 0 170px;
+												position: absolute;
+												display:none;
+												
+											}
+.shadow-a 									{ background-color: #ffffff;
+												box-shadow: 0 4px 4px -2px #DFDFDF;
+												-moz-box-shadow: 0 4px 2px -2px #DFDFDF;
+												-webkit-box-shadow: 0 4px 4px -2px #DFDFDF;
+											}
+.wpb_tab ui-tabs-panel wpb_ui-tabs-hide clearfix ui-widget-content ui-corner-bottom { background-color:#fff !important;}
+
+.bk-tab-1 .entry-meta						{ font-size: 13px;
+											margin-top: -62px;
+											position: relative;
+											z-index: 999;
+											margin-bottom:20px;
+											}
+.bk-tab-1 a.author 							{ display:none; }
+.bk-tab-1 .entry-date 						{ display:block;}
+.bk-tab-1 h2.entry-title 					{ margin-top:-10px; overflow:hidden; height:22px;}
+
+
+.bk-tab-1 .entry-meta a,
+.bk-tab-1 .entry-meta a:hover 				{ background-color:#50565d; color:#fff !important;}
+.bk-tab-1 .entry-meta a * 					{ color:#fff;}
+
+
+.bk-tab-1 .entry-meta:before,
+.bk-tab-1 .portfolio-categories a:hover,
+.bk-tab-1 .entry-tags:before,
+.bk-tab-1 .entry-tags a:hover,
+.bk-tab-1 .old-ie .entry-meta a:hover,
+.bk-tab-1 .old-ie .portfolio-categories a:hover { background-color:#2fa7e5; color:#fff !important;}
+.more-bk-tab 									{float: right; margin-top: -15px; position: relative;}
+.more-bk-img 									{ background:url("/smes-web/static/images/more-btn.jpg") no-repeat scroll; float: left; height: 15px; margin-top: 5px; padding-right: 6px; 						 												width: 15px;}
+.more-bk-txt 									{ background: url("/smes-web/static/images/more-btn.jpg") no-repeat scroll 0 3px rgba(0, 0, 0, 0); float: right; margin-top: -40px;
+												padding-left: 21px;
+												position: relative;}
+#top-bar .wf-float-left:last-of-type, #bottom-bar .wf-float-left:last-of-type  { float: left; margin-right: 0; margin-top: -28px; position: absolute; width: 100%;}
+	
+/*FOOTER*/
+	
+#branding-bottom								{ float: left; font-size: 0; line-height: 0; margin-left: -55px; margin-top: -45px; padding: 10px 10px 10px 0; width: 1px; }
+#bottom-bar 									{ background: none repeat scroll 0 0 #003A63 !important; min-height: 30px; border-top: 35px solid #F3F3F3; }
+
+#bottom-bar .wf-float-right 					{
+													float: left;
+													margin-left: 0px;
+													color: #f3f3f3 !important;
+													font-family: "Thai Sans Lite Regular" !important;
+													font-size: 19px !important;
+													font-weight: normal;
+													line-height: 20px !important;
+												}
+#bottom-bar a									{ color: #f3f3f3 !important; padding:0 18px 0 0; }
+
+#branding-bottom img.preload-me					{ display:none; }
+/*MENU HEADER*/
+
+#top-bar .wf-float-left:last-of-type			{ float: left;
+													margin-right: 0;
+													margin-top: -15px;
+													width: 300px;
+												}
+#bottom-bar .mini-contacts li:before			{ background-color:rgba(0, 0, 0, 0);}
+.scroll-top										{ background-color:rgba(49, 95, 128, 1) }
+.scroll-top:before 								{ background-color:rgba(98, 149, 178, 0.5) }
+.search #page									{ background:#fff; }
+.search #content .hr-breadcrumbs				{ display:none; }
+
+
+
+.wpb_content_element .wpb_accordion_wrapper .wpb_accordion_header, .wpb_content_element.wpb_tabs .wpb_tour_tabs_wrapper .wpb_tab { background-color: rgba(142, 148, 152, 0) !important; }
+
+/*แถบบนสีขาวหน้า Homepage*/
+.tab.active-tab.fullsize-tab:hover, .stripe-style-1 .wpb_content_element.tab-style-one .wpb_tabs_nav li {background-color:rgba(254, 255, 255, 1);}
+
+.wpb_content_element.tab-style-one .wpb_tour_tabs_wrapper .wpb_tabs_nav a
+{ color:#0078c1 !important;}
+
+
+.img-news 										{ float:left; line-height: 16px; margin-right: 20px;}
+.title-news 									{ clear: none; float: left; text-align: left; width: 280px;}
+.des-news 										{ float: left; overflow: hidden; padding-bottom: 20px; text-align: justify; width: 280px; max-height: 41px; min-height:41px;}
+h2.title-news a 								{ float:left; max-height: 39px; overflow:hidden; }
+.box-news 										{ float:left; margin-bottom:35px; margin-bottom: 15px;}
+
+.bk-tab-1 .wf-1-3 article p:nth-child(4) 		{ height:80px !important; overflow:hidden;}
+._4s7c 											{ background-color:#fff !important;}
+.link_to_all  									{ color: #484b4d !important;
+												font-family: "Thai Sans Lite Regular" !important;
+												font-size: 21px !important;
+												font-weight: normal;
+												line-height: 25px !important;
+												text-decoration:none;
+												padding-left:20px; }
+.link_to_all a									{ text-decoration:none;	padding-left:20px; color: #484b4d !important;}
+.ft-logo .logos-grid .wf-1-4					{ width:15% !important;}
+#branding-clone									{ float:left; margin-left:70px;}
+
+
+
+/*Login & Register หน้า Homepage*/
+.login-btn 										{ background:url("/smes-web/static/images/sign-in.png") no-repeat scroll;
+												float: right;
+												height: 49px;
+												left: -67px;
+												position: absolute;
+												top: 16px;
+												width: 93px;
+												z-index: 998; }
+.member-panel 									{ float: left;
+												position: relative;
+												right: 108px;
+												top: -16px; }
+.reg-btn 										{ background:url("/smes-web/static/images/register.png") no-repeat scroll;
+												float: left;
+												height: 56px;
+												left: -30px;
+												position: absolute;
+												top: 16px;
+												width: 143px;
+												z-index: 997;  }
+#top-bar li.address 							{ display:none; }
+#top-bar .mini-search 							{ float: right; margin-right: 200px; }
+.sign-txt  										{ color: #ffffff !important;
+												font-family: "Thai Sans Lite Regular" !important;
+												font-size: 20px !important;
+												font-weight: normal;
+												line-height: 20px !important;
+												margin-left: 20px;
+												margin-top: 5px;
+												text-decoration:none; }
+.reg-txt  										{ color: #000101 !important;
+												font-family: "Thai Sans Lite Regular" !important;
+												font-size: 20px !important;
+												font-weight: normal;
+												line-height: 20px !important;
+												margin-left: 75px;
+												margin-top: 5px;
+												text-decoration:none; }
+/* Switch Language หน้า Homepage*/
+.sw-lang 										{ float: left; margin-left: 590px; display:none; }
+.sw-lang a 										{ color:#969695;} 
+.sw-lang a:hover 								{ background-color:#6fb9cb; border-radius:5px;} 
+
+.home .view_count								{ display:none; }
+
+
+	
+/* หน้า Contact */
+.hr-breadcrumbs .breadcrumbs:after				{ border-bottom: 5px solid #e5e5e5; height: 4px !important; border-top: none !important;}
+.breadcrumbs li, #main ul.products li.product .button { background:url("/smes-web/static/images/nav-page.png") no-repeat scroll 0 4px !important; }
+.hr-breadcrumbs.divider-heder, .hr-breadcrumbs.divider-heder a { color: #484B4D; font-family: "Thai Sans Lite Regular" !important; font-size: 20px; padding-left: 5px; padding-right: 5px; }
+.contact-pic-left								{ border: 7px solid #FEFEFE; border-radius: 5px; float: left; height: 171px; position: relative; width: 223px; margin-right:30px; }
+.contact-pic-left img 							{ margin:0 !important; padding:0 !important; }
+.left											{ float:left; }
+.bg-contact-from								{ background:url("/smes-web/static/images/bg-contact-ismed.png") no-repeat scroll !important; }
+.content .contact-form { background: url("/smes-web/static/images/bg-contact-ismed.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important; height: 353px !important; padding-left: 26px !important; padding-top: 75px !important; position: relative !important; top: -150px !important; width: 320px !important; }
+.zindex-contact									{ float: left; left: 25px; position: relative; top: -120px; z-index: 999; }
+p.form-message									{ width:85% !important; }
+.page-id-13459 a.clear-form						{ display:none; }
+.page-id-292 a.clear-form						{ display:none; }
+.page-id-14240 a.clear-form						{ display:none; } 
+.map-contact-ismed								{ background-color: #6fb9cb; float: left; height: 437px; overflow: hidden; position: relative; width: 100%; border-bottom:2px solid #ffffff; margin-bottom:30px; }
+.page-id-13459 div.content h1					{ display:none; }
+.page-id-292 div.content h1						{ display:none; }
+.page-id-14240 div.content h1					{ display:none; }
+.sign-allpage									{ float:left; background: url("/smes-web/static/images/sign.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); height: 147px; width: 257px; }
+.sign-all-title									{ float: left; margin-left: 35px; margin-top: 32px; }
+.sign-all-des									{ float:left; margin-left: 35px; width: 160px; }
+#text-2.widget									{ box-shadow:none !important; margin-left: -50px; }
+.navigation-inner .prev-post, .navigation-inner .prev-post.disabled:hover		{ background:url("/smes-web/static/images/left-nav.png") no-repeat scroll 0 4px !important; }
+.navigation-inner .next-post, .navigation-inner .next-post.disabled:hover		{ background:url("/smes-web/static/images/right-nav.png") no-repeat scroll 0 4px !important; }
+.navigation-inner .prev-post:hover												{ background:url("/smes-web/static/images/left-nav-hover.png") no-repeat scroll 0 4px !important; }
+.navigation-inner .next-post:hover												{ background:url("/smes-web/static/images/right-nav-hover.png") no-repeat scroll 0 4px !important; }
+.page-id-292 .map-container														{ background-color: #6FB9CB !important; border-bottom: 2px solid #6FB9CB !important;}
+.page-id-13459 .map-container													{ background-color: #6FB9CB !important; border-bottom: 2px solid #6FB9CB !important;}
+.page-id-292 .breadcrumb														{ float: left !important; height: 65px !important; position: absolute !important; top: 592px !important; width: 50% !important; margin-top:0px !important; }
+.page-id-292 .all-banner-page													{ display:none; }
+.page-id-292 .h_banner															{ display:none; }
+.page-id-292 #main																{ background:url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom rgba(0, 0, 0, 0); }
+.page-id-292 .wf-span-4															{ height:350px; }
+
+
+
+.page-id-14240 .map-container														{ background-color: #6FB9CB !important; border-bottom: 2px solid #6FB9CB !important;}
+.page-id-14240 .breadcrumb														{ float: left !important; height: 65px !important; position: absolute !important; top: 592px !important; width: 50% !important; margin-top:0px !important; }
+.page-id-14240 .all-banner-page													{ display:none; }
+.page-id-14240 .h_banner															{ display:none; }
+.page-id-14240 #main																{ background:url("/smes-web/static/images/bg-repeat.jpg") repeat scroll center bottom rgba(0, 0, 0, 0); }
+.page-id-14240 .wf-span-4															{ height:350px; }
+
+
+/*หน้ารวมข่าวสาร */
+.hr-thick										{ border-bottom: 5px solid #E5E5E5; border-top: medium none !important; height: 4px !important; }
+.items-grid .wf-cell							{ border-bottom: 2px solid #f3f3f4; margin-right: 30px; }
+.single-post .items-grid .wf-cell				{ border-bottom:none !important; margin-right: 30px; }
+.items-grid .wf-1-3 							{ width: 29.33% !important; }
+.single-post #page								{ background:#fff !important;}
+.page #page										{ background:#fff !important;}
+.bbpress #page									{ background:#fff !important;}
+.single-post .text-secondary					{ display:none; }
+.items-grid .wf-1-3 img.preload-me:hover		{ background:url("/smes-web/static/images/btn-plus.png") no-repeat scroll 0 4px !important; }
+
+#accordion										{ width:235px; float:left; background-color:#f1f2f2; border-top: 5px solid #F1F2F2; border-radius: 7px; border-bottom:5px solid #F1F2F2; margin-left: 15px; }
+.acc-menu										{ background-color:#fbfbfb; width:235px; height:36px; border-bottom:2px solid #ebecec; cursor:pointer; }
+.acc-menu h3									{ padding-left: 18px; padding-top: 8px; }
+.inner-acc-menu									{ padding-left: 18px; padding-top: 8px; padding-bottom:10px; }
+.num-count										{ float:left; width:10%; background:url("/smes-web/static/images/bg-num-acc.png") no-repeat scroll 0 10px; height:65%; padding-left: 4px; padding-top: 7px; color:#fff; }
+.cover-acc-h3									{ float:left; width:85%; height: 30px; overflow: hidden;}
+ul.acc li										{ background-image:url('/smes-web/static/images/li-acc.png'); padding-left:15px; background-position:5px 8px; background-repeat: no-repeat;padding-right: 10px; }
+ul.acc li a										{ text-decoration:none; }
+.post-img, .post-content a						{ float: left; height: 62px; overflow: hidden; text-overflow: ellipsis; width: 113px !important; word-wrap: break-word; }
+
+
+/* Webboard page */
+.btn-cre-wb										{ background: url("/smes-web/static/images/pencil.png") no-repeat scroll 0 2px rgba(0, 0, 0, 0); float:right;
+												padding-left: 20px; width: 7%; }
+.title-wb										{ float:left; width:70%;}
+.title-wb h2									{ margin-bottom:0 px !important; }
+.cv-wb											{ float:left; width:100%; }
+h3.blue-20 a									{ line-height:20px; }
+.bbp-user-page .hr-breadcrumbs					{ display:none; }
+.bbp-form legend								{ color: #0094d2; font-family: "Thai Sans Lite Regular" !important; font-size: 21px; font-weight: normal; line-height: 20px !important; }
+.single-topic #content h1						{ display:none; }
+#bbpress-forums li.bbp-header					{ background:url("/smes-web/static/images/bg-header.png") no-repeat scroll; color:#f1f2f2 !important; }
+
+/* breadcrumbs */
+.homebcs										{ background:url("/smes-web/static/images/home-back.png") no-repeat scroll !important; width:23px; height:20px; float:left; margin-left:15px; }
+.left-bcs										{ border-left:2px #e5e5e5 solid; padding-left:5px; }
+
+p.read_more										{ float:left; }
+
+/* Social btn */
+a.fb-soc										{ background: url("/smes-web/static/images/facebook-img.png") no-repeat scroll 0 0;
+													float:left; width:22px; height:22px; margin-right:5px; }
+a.tw-soc										{ background: url("/smes-web/static/images/twitter-img.png") no-repeat scroll 0 0;
+													float:left; width:22px; height:22px; margin-right:5px; }
+a.ggp-soc										{ background: url("/smes-web/static/images/google-p-img.png") no-repeat scroll 0 0;
+													float:left; width:22px; height:22px; margin-right:5px; }
+.cv-soc-ico										{ float:right; }
+
+/* ร่วมงานกับเรา Apply job */
+.cv-apply-job									{ float:left; width:100%; }
+.title-apply-job								{ float:left; width:70%; }
+.title-apply-job h2								{ margin-bottom:0 px !important; }
+
+
+
+.entry-meta:before, .entry-meta a:hover, .portfolio-categories a:hover, .entry-tags:before, .entry-tags a:hover, .old-ie .entry-meta a:hover, .old-ie .portfolio-categories a:hover {
+    background-color: #2FA7E5 !important;
+    color: #FFFFFF !important; }
+	
+.entry-tags a, .old-ie .entry-meta a, .old-ie .portfolio-categories a {
+    background-color: #f1f1f2 !important;
+    color: #838383 !important;
+}
+
+
+.entry-meta a, .entry-tags a, .portfolio-categories a {
+    background-color: #F1F1F2;
+    color: #838383 !important;
+    padding: 0 6.66667px;
+}
+
+.entry-meta a									{ color: #838383 !important; width:109px; }
+.view_count										{ background-color: #f1f1f2 !important; padding:0 5px 3px; }
+.entry-meta a *									{ color: #838383; }
+.entry-tags										{ float:left; }
+.h_banner										{ float:left; margin-top: 210px; }
+.breadcrumb										{ float:left; width:100%; margin-top:9px; height:65px; }
+.all-banner-page								{ background: url(/smes-web/static/images/all-banner-page.png) repeat-y scroll 0 0 ;
+												background-size:2000px 188px;
+												height: 188px;
+												position: absolute;
+												width: 100%;
+												float:left;
+												}
+.cv-title-all-banner-page						{ float: left; margin-left: 23%; margin-top: 2%; width: 100%; }
+.cv-des-all-banner-page							{ float:left; margin-left: 23%; margin-top:0.5%; }
+
+/* รวมปิด breadcrumbs แต่ละหน้า */
+.page-id-13348 #content h1						{ display:none; }
+.page-id-13348 #content .hr-breadcrumbs			{ display:none; }
+.page-id-14534 #content h1						{ display:none; }
+.page-id-14534 #content .hr-breadcrumbs			{ display:none; }
+.page-id-13358 #content .hr-breadcrumbs			{ display:none; }
+.page-id-13572 #content .hr-breadcrumbs			{ display:none; }
+.page-id-14543 #content .hr-breadcrumbs			{ display:none; }
+.page-id-38 #content .hr-breadcrumbs			{ display:none; }
+.page-id-41 #content .hr-breadcrumbs			{ display:none; }
+.page-id-40 #content .hr-breadcrumbs			{ display:none; }
+.page-id-13902 #content .hr-breadcrumbs			{ display:none; }
+.page-id-14229 #content .hr-breadcrumbs			{ display:none; }
+
+/* หน้า login */
+.page-id-38 #wp125-2										{ display:none; }
+/*#main-nav > li.has-children > a, .csstransforms3d #main-nav.fancy-rollovers > li.has-children > a span { padding:0 18.3333px 0 11.3333px !important;}*/
+
+
+.cv-faq											{ float:left; width:100%; border-bottom:2px solid #efefef; border-right:5px solid #efefef; border-left:5px solid #efefef; border-top:5px solid #efefef; height:40px;}
+.sign-faq										{ background: url(/smes-web/static/images/sign.png) repeat-y scroll 0 0 ; float:left; width:17%; height:40px; }
+.sign-faq h3.ff-20								{ float:left; padding:9px 9px 9px 15px; }
+.question-faq h3.realblack-20					{ float:left; padding:9px 9px 9px 15px; }
+.question-faq									{ float:left; width:75%; }	
+.ans-faq										{ float:left; width:100%; background-color:#f5f6f6; border-left:5px solid #efefef; border-right:5px solid #efefef; }
+.ans-faq p										{ float:left; padding:15px 16px; }
+
+.mini-contacts li.rssf:before					{ float:right; background: url(/smes-web/static/images/rss.png) repeat-y scroll 0 0 ; width:15px; height:15px; }
+li.rssf											{ padding-left:80px; color:#7B7F82; }
+
+
+/* หน้า Download */
+.page-id-13572 .entry-share						{ margin-top:0px; float:right;  }
+.page-id-13572 #wp125-2							{ display:none; }
+.page-id-14543 .entry-share						{ margin-top:0px; float:right;  }
+.page-id-14543 #wp125-2							{ display:none; }
+.all-downloads									{ float:left; width:100%; border-bottom: 5px solid #EFEFEF; border-top: 5px solid #EFEFEF; }
+.per-downloads									{ float:left; width:100%; border-bottom:2px #efefef solid; }
+.title-downloads								{ float:left; width:81%; height:20px; }
+.position-file-downloads						{ float:left; width:19%; }
+.title-downloads h3								{ float:left; border-left:5px #efefef solid; }
+a.btn-file-downloads 							{ border-right:5px #efefef solid; }
+.btn-file-downloads {
+    background: url("/smes-web/static/images/btn-download.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    cursor: pointer;
+    height: 24px;
+    padding: 7px 3px 9px 64px;
+    text-decoration: none;
+    width: 75px;
+	float:right;
+}
+.btn-file-downloads:hover {
+    background: url("/smes-web/static/images/btn-download-hover.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    cursor: pointer;
+    height: 24px;
+    padding: 7px 3px 9px 64px;
+    text-decoration: none;
+    width: 75px;
+	float:right;
+}
+.btn-file-downloads:active {
+    background: url("/smes-web/static/images/btn-download-active.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0);
+    cursor: pointer;
+    height: 24px;
+    padding: 7px 3px 9px 64px;
+    text-decoration: none;
+    width: 75px;
+	float:right;
+}
+.title-downloads h3										{ float:left; padding:10px 20px;}
+.content .wf-container:first-child .per-downloads		{ float:left; border-top:5px #efefef solid; }
+.page-id-144 #content .hr-breadcrumbs					{ display:none; }
+.page-id-14541 #content .hr-breadcrumbs					{ display:none; }
+
+/*หน้ารวม Category*/
+.category #main											{ background:none repeat scroll 0 0 #FFFFFF; }
+.category #content .hr-breadcrumbs						{ display:none; }
+.category h2.entry-title a								{ font-size:27px !important; }
+.category #content h1									{ display:none; }
+.layout-list .post, .layout-masonry .post				{ border-color: -moz-use-text-color -moz-use-text-color #f2f2f2; border-style: none none solid; border-width: medium medium 1px; }
+.excerpt_in_lists p										{ float:right; height: 101px; overflow: hidden; text-overflow: ellipsis; white-space: normal; width: 450px; }
+.excerpt_in_lists										{ float:right; height: 101px; overflow: hidden; text-overflow: ellipsis; white-space: normal; width: 450px; }
+.posted_when											{ float:right; height: 35px; margin-right: 240px; }
+.format-standard .entry-meta:before						{ background: url("/smes-web/static/images/blogs-btn.jpg") no-repeat scroll 0 0 rgba(0, 0, 0, 0); }
+ol.standard-number-list li								{ color:#868686; }
+.bbp-breadcrumb											{ display:none; }
+
+/*หน้า แกลลอรี่ */
+.page-id-144 a.edit-link								{ display:none; }
+.page-id-14541 a.edit-link								{ display:none; }
+.page-id-77 #content .hr-breadcrumbs					{ display:none; }
+.page-id-14237 #content .hr-breadcrumbs					{ display:none; }
+
+
+/* หน้าแรก เมนู */
+.sub-nav												{ background-color:#fff !important;}
+.sub-nav:hover											{ background-color:#fff !important;}
+ul.sub-nav li a											{ color:#4D5361; }
+ul.sub-nav li a:hover									{ background-color:#184c71 !important;  color:#fff !important; }
+
+
+button, input[type="button"], input[type="reset"], input[type="submit"], .dt-form button, .dt-form input[type="button"], .dt-form input[type="reset"], .dt-form input[type="submit"], .dt-btn, .footer .dt-btn, .sidebar .dt-btn, .woocommerce #main a.button, #page .woocommerce a.button, .woocommerce #main button.button, .woocommerce #main input.button, .woocommerce #main #respond input#submit, .woocommerce #main #content input.button, .woocommerce-page #main a.button, .woocommerce-page #main button.button, .woocommerce-page #main input.button, .woocommerce-page #main #respond input#submit, .woocommerce-page #main #content input.button, #main #pricing-table .plan .signup, #main #shaon-pricing-table a.signup, #main .minimal .pt-button { background-color:#0078c1 !important;}
+
+/* พวก style สีต่างๆ */
+.rollover i:before, .rollover-small i:before, .albums .rollover-small i:before, .albums .rollover-zoom.rollover i:before { background-color:#0078c1;}
+.filter-extras:before, .filter-categories:before		{ background-color:#0078c1;}
+.filter a:hover, .paginator a:hover, .paginator a.act	{ background-color:#0078c1;}
+.filter .act											{ background: url("/smes-web/static/images/btn/btn-tk.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); }
+.paginator .nav-next:after, .details, .standard-arrow li, .breadcrumbs li, #main ul.products li.product .button { background: url("/smes-web/static/images/nxt-btn.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); }
+.paginator .nav-prev:before								{ background: url("/smes-web/static/images/prev-btn.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); }
+
+/*ปฏิทิน*/
+.postid-13724 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13724 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13724 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ปฏิทิน-en */
+.postid-14227 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14227 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14227 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+.my-calendar-month										{ color: #f1f2f2 !important;
+														font-family: "Thai Sans Lite Regular" !important;
+														font-size: 27px !important;
+														font-weight: normal;
+														line-height: 20px !important;
+														}
+.mc-main caption, .mc-main .my-calendar-month, .mc-main .my-calendar-week, .mc-main .mc-single { background: url("/smes-web/static/images/calendar_bg01.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0); height:46px; padding: 0px !important; line-height:46px !important; border-top:5px solid #F1F2F2 !important; border-left:5px solid #F1F2F2 !important; border-right:5px solid #F1F2F2 !important; margin-bottom:33px !important; }
+.my-calendar-date-switcher								{ margin-top:80px !important; position:absolute !important; height:31px !important; width:736px;}
+.mc-time												{ float: right; position: relative !important; right: 30px;top: 90px; }
+.my-calendar-date-switcher div							{ margin-top:5px; margin-left:10px; }
+.mc-print												{ display:none; }
+.mc-format												{ display:none;}
+#mc-calendar-year										{ width:85px; }
+#mc-calendar-month										{ width:90px; }
+.my-calendar-nav										{ float: right !important; padding: 3px !important; position: relative !important; top: 85px !important; right:10px; z-index:999 !important; }
+.my-calendar-prev a										{ text-indent:-9999px; background: url("/smes-web/static/images/calendar_prev.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important; height:23px !important; width:20px !important; z-index:990 !important; }
+.mc-main .my-calendar-prev a							{ border-radius:5px !important;}
+.mc-main .my-calendar-nav li a							{ padding:0 2px !important;}
+
+.my-calendar-next a										{ text-indent:-9999px; background: url("/smes-web/static/images/calendar_next.png") no-repeat scroll 0 0 rgba(0, 0, 0, 0) !important; height:23px !important; width:20px !important; z-index:990 !important; }
+.mc-main .my-calendar-next a							{ border-radius:5px !important;}
+.my-calendar-date-switcher input.button					{ height: 18px; width: 25px; }
+.mc-main .current-day									{ background:none repeat scroll 0 0 #deedf1 !important; }
+.mc-main .current-day .mc-date							{ background:none repeat scroll 0 0 #bedce3 !important; }
+.mc-main .mc_general .event-title, .mc-main .mc_general .event-title a { background:none repeat scroll 0 0 #deedf1 !important; }
+table.my-calendar-table									{ border-left:5px #f1f2f2 solid; border-right:5px #f1f2f2 solid; border-bottom:5px #f1f2f2 solid;}
+#jd-calendar											{ margin-top:-27px; }
+
+														
+/* Ads โฆษณา */												
+.sidebar .widget_wp125									{ background:none !important; box-shadow:none !important; padding: 10px 11px 15px !important; }
+#wp125-2 .widget-title									{ display:none; }
+
+/*ประวัติความเป็นมา*/
+.postid-13553 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+.postid-13553 .items-grid								{ display:none; }
+.postid-13553 h2.entry-title							{ display:none; }
+/*ประวัติความเป็นมา-en */
+.postid-14180 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+.postid-14180 .items-grid								{ display:none; }
+.postid-14180 h2.entry-title							{ display:none; }
+
+/*วิสัยทัศน์ พันธกิจขององค์กร*/
+.postid-13699 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13699 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13699 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*วิสัยทัศน์ พันธกิจขององค์กร-en */
+.postid-14190 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14190 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14190 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ผู้บริหารของสถาบัน*/
+.postid-13701 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13701 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13701 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ผู้บริหารของสถาบัน-en*/
+.postid-14192 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14192 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14192 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+/*โครงสร้างของสถาบัน*/
+.postid-13703 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13703 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13703 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+/*โครงสร้างของสถาบัน-en */
+.postid-14194 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14194 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14194 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+
+/*เครือข่ายของสถาบัน*/
+.postid-13705 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13705 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13705 .items-grid						{ display:none; } /*ปิด related post*/
+.postid-13705 .content td,.postid-13705 .content th		{ border-top:none !important; } 
+
+/*เครือข่ายของสถาบัน-en */
+.postid-14196 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14196 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14196 .items-grid						{ display:none; } /*ปิด related post*/
+.postid-14196 .content td,.postid-14196 .content th		{ border-top:none !important; }
+
+/*นิยาม SMEs*/
+.postid-13708 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13708 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13708 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*นิยาม SMEs-en */
+.postid-14205 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14205 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14205 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการพัฒนาพื้นฐานธุรกิจ*/
+.postid-13711 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13711 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13711 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+/*บริการพัฒนาพื้นฐานธุรกิจ-en */
+.postid-14217 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14217 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14217 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการพัฒนาสมรรถนะธุรกิจ*/
+.postid-13713 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13713 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13713 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการพัฒนาสมรรถนะธุรกิจ-en */
+.postid-14219 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14219 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14219 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการเพิ่มมูลค่าผลผลิตและออกแบบผลิตภัณฑ์*/
+.postid-13715 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13715 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13715 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการเพิ่มมูลค่าผลผลิตและออกแบบผลิตภัณฑ์-en */
+.postid-14221 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14221 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14221 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการพัฒนาธุรกิจต่างประเทศและการตลาด*/
+.postid-13717 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13717 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13717 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการพัฒนาธุรกิจต่างประเทศและการตลาด-en */
+.postid-14223 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14223 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14223 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการจัดอบรม/สัมนา*/
+.postid-13719 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13719 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13719 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*บริการจัดอบรม/สัมนา-en */
+.postid-14225 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14225 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14225 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*สมัครอบรม Online*/
+.postid-13732 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13732 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13732 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ผลการดำเนินงาน*/
+.postid-13734 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13734 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13734 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ผลการดำเนินงาน-en */
+.postid-14231 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14231 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14231 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*จัดซื้อจัดจ้าง*/
+.postid-13736 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13736 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13736 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*จัดซื้อจัดจ้าง-en */
+.postid-14233 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14233 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14233 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ร่วมงานกับเรา*/
+.postid-13738 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-13738 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-13738 .items-grid						{ display:none; } /*ปิด related post*/
+
+/*ร่วมงานกับเรา-en */
+.postid-14235 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14235 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14235 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+/*คำถามที่พบบ่อย-en */
+.page-id-14539 #content .hr-breadcrumbs					{ display:none; }
+.postid-14539 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-14539 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-14539 .items-grid						{ display:none; } /*ปิด related post*/
+
+
+/*แผนผังเว็บไซต์-th */
+.page-id-15123 #content .hr-breadcrumbs					{ display:none; }
+.postid-15123 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-15123 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-15123 .items-grid						{ display:none; } /*ปิด related post*/
+ 
+/*แผนผังเว็บไซต์-en */
+.page-id-15132 #content .hr-breadcrumbs					{ display:none; }
+.postid-15132 .navigation-inner							{ display:none; } /*ปิด navigation-inner*/
+#content #post-15132 h2.entry-title						{ display:none; } /*ปิด title related post*/
+#content #post-15132 .items-grid						{ display:none; } /*ปิด related post*/
+
+ 
+
+
+.uploadz_photo											{ font-size:0px !important; }
+.uploadz_photo											{ font-size:20px  \0/!important;}
+.wid-320-h240											{ width:320px; height:200px; }
+.wid-320-h240 .wpb_video_wrapper iframe					{ width:320px !important; height:200px !important; }
+.full-frame												{ height:50% \0/ !important; width:50% \0/ !important; }
+.ytp-thumbnail .video-thumbnail							{ height:50% \0/ !important; width:50% \0/ !important; }
+.real-bars-news											{ display:none\0/ !important; }
+.stripe-style-1											{ margin-top:-85px\0/ !important;}
+.cv-title-all-banner-page h2.ff-52						{ height:39px; width:53%; overflow:hidden; line-height:38px !important; }
+
+/* ข่าวที่เราทำให้เค้า */
+.postid-14892 h1.entry-title 							{ font-size:22px !important }
+
+
+/* หน้า Site Map */
+.content ul.list-none {
+    list-style: none outside none;
+	padding-left:0px;
+}
+.content ul.list-none li a {
+    text-decoration:none;
+}	
+
+.site-map1 {
+    float: left;
+    margin-top: 25px;
+    width: 35%;
+	min-height: 180px;
+}
+.site-map2 {
+    float: left;
+    margin-top: 25px;
+    width: 35%;
+}
+
+.site-map3 {
+    float: left;
+    margin-top: 25px;
+    width: 30%;
+}
+.line-100 {
+    border-bottom: 1px solid #E5E5E5;
+    float: left;
+    width: 100%;
+}
+.orange-line-sitemap {
+    border-top: 3px solid #6fb9cb;
+    width: 175px;
+}
+.f-orange {
+    color: #F26522;
+}
+
+/* หน้า INDEX เพิ่มเติม */
+
+.link_to_all-white {
+    color: #ffffff !important;
+    font-family: "Thai Sans Lite Regular" !important;
+    font-size: 21px !important;
+    font-weight: normal;
+    line-height: 25px !important;
+    text-decoration: none;
+    float: right;
+    margin-top: -25px;
+}
+.link_to_all-white a {
+    text-decoration: none;
+}
+
+.home.tp-bullets.simplebullets.round-old {left: 67%;  top: 120px;}
