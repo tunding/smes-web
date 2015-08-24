@@ -43,10 +43,10 @@ h3.ef-20 {
 @font-face {
 	font-family: 'Thai Sans Lite Regular';
 	src: url('fearless-webfont.eot');
-	src: url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.eot?#iefix') format('embedded-opentype'),
-		 url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.woff') format('woff'),
-		 url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.ttf') format('truetype'),
-		 url('http://www.ismed.or.th/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.svg#thaisanslite_r1-webfont') format('svg');
+	src: url('/smes-web/static/styles/index/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.eot?#iefix') format('embedded-opentype'),
+		 url('/smes-web/static/styles/index/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.woff') format('woff'),
+		 url('/smes-web/static/styles/index/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.ttf') format('truetype'),
+		 url('/smes-web/static/styles/index/wp-content/plugins/fontpress/fonts/Thai_Sans_Lite_Regular/thaisanslite_r1-webfont.svg#thaisanslite_r1-webfont') format('svg');
 }
 	
 font.fp_ff_Thai_Sans_Lite_Regular, font.fp_ff_Thai_Sans_Lite_Regular * {
