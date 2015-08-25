@@ -449,6 +449,60 @@ jQuery(document).ready(function($) { $('html').removeClass('mcjs') });
          </ul>
         </div>
        </div> 
+       <ul id="main-nav" class="fancy-rollovers wf-mobile-hidden"> 
+    <li class="menu-item menu-item-type-custom menu-item-object-custom current-menu-item current_page_item menu-item-home menu-item-51 act first"><a href="./static/SME ISMED   สถาบันพัฒนาวิสาหกิจขนาดกลางและขนาดย่อม (ISMED) สถาบันเครือข่ายของกระทรวงอุตสาหกรรม และ 5 องค์กรหลักภาคเอกชน.html" style="padding: 0px;">หน้าแรก</a></li> 
+    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13698 has-children"><a href="http://www.ismed.or.th/category/introduction/" style="padding: 0px;">แนะนำ ISMED</a>
+     <ul class="sub-nav" style="opacity: 0; visibility: hidden;"> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13744 first"><a href="http://www.ismed.or.th/%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%a7%e0%b8%b1%e0%b8%95%e0%b8%b4%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%a1%e0%b8%b2/">ประวัติความเป็นมา</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13745"><a href="http://www.ismed.or.th/%e0%b8%a7%e0%b8%b4%e0%b8%aa%e0%b8%b1%e0%b8%a2%e0%b8%97%e0%b8%b1%e0%b8%a8%e0%b8%99%e0%b9%8c-%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%ad%e0%b8%87/">วิสัยทัศน์ พันธกิจขององค์กร</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13746"><a href="http://www.ismed.or.th/%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%ab%e0%b8%b2%e0%b8%a3%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%9a%e0%b8%b1%e0%b8%99/">ผู้บริหารของสถาบัน</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13747"><a href="http://www.ismed.or.th/%e0%b9%82%e0%b8%84%e0%b8%a3%e0%b8%87%e0%b8%aa%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%87%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%9a%e0%b8%b1%e0%b8%99/">โครงสร้างของสถาบัน</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13748"><a href="http://www.ismed.or.th/%e0%b9%80%e0%b8%84%e0%b8%a3%e0%b8%b7%e0%b8%ad%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b8%ad%e0%b8%87%e0%b8%aa%e0%b8%96%e0%b8%b2%e0%b8%9a%e0%b8%b1%e0%b8%99/">เครือข่ายของสถาบัน</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13749"><a href="http://www.ismed.or.th/%e0%b8%99%e0%b8%b4%e0%b8%a2%e0%b8%b2%e0%b8%a1-smes/">นิยาม SMEs</a></li> 
+     </ul></li> 
+    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13751 has-children"><a href="http://www.ismed.or.th/category/ismed-services/" style="padding: 0px;">บริการ ISMED</a>
+     <ul class="sub-nav"> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13750 first"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b8%9e%e0%b8%b7%e0%b9%89%e0%b8%99%e0%b8%90%e0%b8%b2%e0%b8%99%e0%b8%98%e0%b8%b8%e0%b8%a3%e0%b8%81/">บริการพัฒนาพื้นฐานธุรกิจ</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13752"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%92%e0%b8%99%e0%b8%b2%e0%b8%aa%e0%b8%a1%e0%b8%a3%e0%b8%a3%e0%b8%96%e0%b8%99%e0%b8%b0%e0%b8%98%e0%b8%b8%e0%b8%a3%e0%b8%81/">บริการพัฒนาสมรรถนะธุรกิจ</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13753"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%a1%e0%b8%a1%e0%b8%b9%e0%b8%a5%e0%b8%84%e0%b9%88%e0%b8%b2%e0%b8%9c%e0%b8%a5%e0%b8%9c%e0%b8%a5%e0%b8%b4/">บริการเพิ่มมูลค่าผลผลิตและออกแบบผลิตภัณฑ์</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13754"><a href="http://www.ismed.or.th/ibmd/">บริการพัฒนาธุรกิจต่างประเทศและการตลาด</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15603"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%b4%e0%b8%88%e0%b8%89%e0%b8%b1%e0%b8%a2%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1/">บริการตรวจวินิจฉัยความสามารถในการแข่งขันธุรกิจ (BCSD)</a></li> 
+      <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-15604 has-children"><a href="http://www.ismed.or.th/#">บริการอื่นๆ</a>
+       <ul class="sub-nav"> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15602 first"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%ad%e0%b8%9a%e0%b8%a3%e0%b8%a1%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%87%e0%b8%b4%e0%b8%99-%e0%b8%9a/">บริการอบรมด้านการเงิน บัญชีและภาษี</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15601"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%b6%e0%b8%81%e0%b8%a9%e0%b8%b2%e0%b9%81%e0%b8%99%e0%b8%b0%e0%b8%99%e0%b8%b3%e0%b8%a7%e0%b8%b4%e0%b9%80%e0%b8%84%e0%b8%a3/">บริการปรึกษา/แนะนำ/วิเคราะห์การบริหารจัดการพลังงาน</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15600"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%aa%e0%b8%b8%e0%b8%82%e0%b8%a0%e0%b8%b2%e0%b8%a7%e0%b8%b0%e0%b8%9e%e0%b8%99/">บริการตรวจวัดสุขภาวะพนักงาน</a></li> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15665"><a href="http://www.ismed.or.th/%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%95%e0%b8%a3%e0%b8%a7%e0%b8%88%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b9%80%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%a8%e0%b8%b1%e0%b8%81%e0%b8%a2%e0%b8%a0/">บริการตรวจประเมินศักยภาพการทำงานของพนักงาน</a></li> 
+       </ul></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13772 has-children"><a href="http://www.ismed.or.th/category/training-seminar/">หลักสูตรอบรมสัมมนา</a>
+       <ul class="sub-nav"> 
+        <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13757 first"><a href="http://www.ismed.or.th/%e0%b8%9b%e0%b8%8f%e0%b8%b4%e0%b8%97%e0%b8%b4%e0%b8%99/">ปฏิทินหลักสูตร</a></li> 
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13774"><a href="http://www.ismed.or.th/category/training-seminar/public-training-%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b9%80%e0%b8%87%e0%b8%b4%e0%b8%99-%e0%b8%9b%e0%b8%b5-2556/">Public Training ปี 2558</a></li> 
+        <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13773"><a href="http://www.ismed.or.th/category/training-seminar/in-house-training/">In House Training</a></li> 
+       </ul></li> 
+     </ul></li> 
+    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13780 has-children"><a href="http://www.ismed.or.th/category/ismed-news/" style="padding: 0px;">ข่าวสาร ISMED</a>
+     <ul class="sub-nav"> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13761 first"><a href="http://www.ismed.or.th/category/ismed-news/information-news/">ข่าวประชาสัมพันธ์อบรมโครงการต่างๆ</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13762"><a href="http://www.ismed.or.th/category/ismed-news/hot-news/">ข่าวเด่น</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13777"><a href="http://www.ismed.or.th/category/activity/">กิจกรรม</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13778"><a href="http://www.ismed.or.th/category/past-events/">กิจกรรมต่างๆและข่าวทั่วไป</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13763"><a href="http://www.ismed.or.th/%e0%b8%9c%e0%b8%a5%e0%b8%81%e0%b8%b2%e0%b8%a3%e0%b8%94%e0%b8%b3%e0%b9%80%e0%b8%99%e0%b8%b4%e0%b8%99%e0%b8%87%e0%b8%b2%e0%b8%99/">ผลการดำเนินงาน</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13764"><a href="http://www.ismed.or.th/%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%8b%e0%b8%b7%e0%b9%89%e0%b8%ad%e0%b8%88%e0%b8%b1%e0%b8%94%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%87/">ประกาศจัดซื้อจัดจ้าง</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-13765"><a href="http://www.ismed.or.th/%e0%b8%a3%e0%b9%88%e0%b8%a7%e0%b8%a1%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%a3%e0%b8%b2/">ร่วมงานกับเรา</a></li> 
+      <li class="menu-item menu-item-type-post_type menu-item-object-post menu-item-15505"><a href="http://www.ismed.or.th/%e0%b8%95%e0%b8%b3%e0%b9%81%e0%b8%ab%e0%b8%99%e0%b9%88%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%aa%e0%b8%a1%e0%b8%b1%e0%b8%84%e0%b8%a3-2/">ตำแหน่งที่เปิดรับสมัคร</a></li> 
+     </ul></li> 
+    <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13766 has-children"><a href="http://www.ismed.or.th/category/knowledge/" style="padding: 0px;">องค์ความรู้</a>
+     <ul class="sub-nav" style="opacity: 0; visibility: hidden;"> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13770 first"><a href="http://www.ismed.or.th/category/knowledge/books-for-business/">หนังสือแนะนำ สำหรับเริ่มทำธุรกิจ</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13768"><a href="http://www.ismed.or.th/category/knowledge/sample-business-plans/">ตัวอย่างแผนธุรกิจ</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13769"><a href="http://www.ismed.or.th/category/knowledge/research/">ผลงานวิจัย</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13779"><a href="http://www.ismed.or.th/category/knowledge/project/">โครงการต่างๆ</a></li> 
+      <li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-13767"><a href="http://www.ismed.or.th/category/knowledge/manage-efficiency/">การบริหารอย่างมีประสิทธิภาพ</a></li> 
+     </ul></li> 
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13771"><a href="http://www.ismed.or.th/%e0%b8%a5%e0%b8%87%e0%b8%97%e0%b8%b0%e0%b9%80%e0%b8%9a%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%9c%e0%b8%b9%e0%b9%89%e0%b8%9b%e0%b8%a3%e0%b8%b0%e0%b8%81%e0%b8%ad%e0%b8%9a%e0%b8%81%e0%b8%b2%e0%b8%a3/" style="padding: 0px;">ลงทะเบียนผู้ประกอบการ</a></li> 
+    <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13690"><a href="http://www.ismed.or.th/%e0%b8%95%e0%b8%b4%e0%b8%94%e0%b8%95%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%a3%e0%b8%b2/" style="padding: 0px;">ติดต่อเรา</a></li> 
+   </ul>
       </nav> 
      </div>
      <!-- .wf-table --> 
