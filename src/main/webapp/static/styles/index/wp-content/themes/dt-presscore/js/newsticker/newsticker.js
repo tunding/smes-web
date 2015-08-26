@@ -389,7 +389,7 @@
 		htmlFeed: true,
 		debugMode: true,
 		controls: true,
-<!--		titleText: 'Latest',-->	
+		titleText: 'Latest',	
 		direction: 'ltr',	
 		pauseOnItems: 3000,
 		fadeInSpeed: 600,
